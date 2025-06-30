@@ -51,7 +51,7 @@ params:
     enabled: true
     title: 'Dhwani Yagnaraman'
     subtitle: "Hello! I am a PhD student in the Department of Social and Decision Sciences at Carnegie Mellon University. My research focuses on behavioral economics and climate change. I'm currently exploring how people think about climate change and how policies shape perceptions of social issues. Before starting my PhD, I worked as a researcher applying behavioral science to questions in policy and development at Busara."
-    imageUrl: 'profile1.jpg'
+    imageUrl: 'profile1.JPG'
     imageWidth: 200
     imageHeight: 200
     imageTitle: 'Dhwani Yagnaraman'
