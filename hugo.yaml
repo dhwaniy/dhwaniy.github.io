@@ -28,7 +28,7 @@ menu:
 params:
   author: 'Dhwani Yagnaraman'
   description: 'I am a PhD student in Social and Decision Sciences at Carnegie Mellon University. My research focuses on behavioral economics and climate change.'
-  #googleAnalyticsID
+  googleAnalyticsID: n/a
   showGitInfo: false
   DateFormat: "January 2006"
   hideFooter: true
