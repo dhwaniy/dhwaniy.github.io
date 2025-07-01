@@ -62,7 +62,7 @@ params:
       url: /cv/
   label:
     text: 'Dhwani Yagnaraman'
-    icon: 'favicon.ico'
+    icon: '/favicon.ico'
     iconHeight: 18
   socialIcons:
     - name: email
