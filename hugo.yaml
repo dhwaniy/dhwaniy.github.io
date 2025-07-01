@@ -1,4 +1,4 @@
-baseURL: "https://dhwaniy.github.io/"
+baseURL: "https://www.dhwaniyagnaraman.com/"
 languageCode: en-us
 title: Dhwani Yagnaraman
 theme: PaperMod
@@ -62,7 +62,7 @@ params:
       url: /cv/
   label:
     text: 'Dhwani Yagnaraman'
-    icon: '/favicon.ico'
+    icon: 'favicon.ico'
     iconHeight: 18
   socialIcons:
     - name: email
@@ -73,17 +73,16 @@ params:
       url: 'https://github.com/dhwaniy'
     - name: linkedin
       url: 'https://www.linkedin.com/in/dhwaniyagnaraman/'
-
-assets:
-  favicon: 'favicon.ico'
-  favicon16x16: 'favicon-16x16.png'
-  favicon32x32: 'favicon-32x32.png'
-  apple_touch_icon: 'apple-touch-icon.png'
-  disableScrollBarStyle: true
-  disableHLJS: true
-  cover:
-    hiddenInList: true
-    hiddenInSingle: true
+  assets:
+    favicon: 'favicon.ico'
+    favicon16x16: 'favicon-16x16.png'
+    favicon32x32: 'favicon-32x32.png'
+    apple_touch_icon: 'apple-touch-icon.png'
+    disableScrollBarStyle: true
+    disableHLJS: true
+    cover:
+      hiddenInList: true
+      hiddenInSingle: true
     
 
 markup:
